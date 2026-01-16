@@ -1,64 +1,68 @@
-# Joel Piñeiro - Portfolio Personal
+### Hola 👋, soy Joel Piñeiro
 
-Bienvenido al repositorio de mi portfolio personal. Este proyecto es una presentación web moderna y profesional diseñada para mostrar mi experiencia, habilidades y proyectos como **Senior Backend Developer** y **AI Integration Lead**.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=Senior%20Backend%20Developer&fontSize=50&fontColor=39ff14&fontAlign=50&animation=fadeIn" alt="Header Animation" width="100%"/>
+</div>
 
-El diseño sigue una estética "Clean Tech" con modo oscuro, acentos en verde neón y efectos de Glassmorphism, priorizando siempre la experiencia de usuario (Mobile First).
+<br/>
 
-## 🚀 Características Principales
+Soy un **Senior Backend Developer** especializado en **Java** y **Spring Boot**, con una fuerte orientación hacia la arquitectura de microservicios. Actualmente, también me desempeño como **AI Integration Lead**, ayudando a equipos a adoptar herramientas de Inteligencia Artificial para optimizar procesos.
 
-*   **Diseño Responsivo (Mobile First):** Adaptado perfectamente a dispositivos móviles, tablets y escritorio.
-*   **Estética "Clean Tech":** Modo oscuro con paleta de colores profesional y futurista.
-*   **Glassmorphism:** Tarjetas y elementos UI con efectos de vidrio esmerilado modernos.
-*   **Animaciones Interactivas:** Efecto de máquina de escribir en el hero y transiciones suaves.
-*   **Navegación Fluida:** Smooth scrolling para una mejor experiencia de navegación entre secciones.
-
-## 🛠️ Tecnologías Utilizadas
-
-Este proyecto ha sido construido utilizando tecnologías web estándar, sin dependencias pesadas de frameworks para el frontend del portfolio en sí, garantizando rendimiento y limpieza.
-
-*   **HTML5:** Estructura semántica del contenido.
-*   **CSS3:**
-    *   Variables CSS (Custom Properties) para gestión de temas.
-    *   Flexbox y Grid para el layout.
-    *   Media Queries para el diseño adaptativo.
-*   **JavaScript (ES6+):** Lógica para el menú móvil, efectos de escritura y navegación.
-*   **Recursos Externos:**
-    *   [FontAwesome](https://fontawesome.com/) para iconos.
-    *   [Google Fonts](https://fonts.google.com/) (Tipografía 'Inter').
-
-## 📂 Estructura del Proyecto
-
-El proyecto mantiene una estructura simple y ordenada:
-
-```
-.
-├── index.html      # Estructura principal y contenido del sitio
-├── styles.css      # Estilos globales, diseño responsive y temas
-├── script.js       # Funcionalidad interactiva (menú, animaciones)
-└── README.md       # Documentación del proyecto
-```
-
-## 🔧 Instalación y Uso
-
-Dado que es un sitio estático, no requiere instalación de dependencias ni procesos de compilación complejos.
-
-1.  **Clonar el repositorio:**
-    ```bash
-    git clone https://github.com/tu-usuario/nombre-repo.git
-    ```
-2.  **Abrir el proyecto:**
-    Navega a la carpeta del proyecto y abre el archivo `index.html` en tu navegador web favorito.
-
-## 👨‍💻 Sobre el Autor
-
-**Joel Piñeiro**
-*   **Rol:** Senior Backend Developer (Java/Spring Boot) & AI Integration Lead
-*   **Especialidad:** Arquitecturas de microservicios, integración de IA y liderazgo técnico.
-*   **Ubicación:** Pontevedra, España.
-
-### Contacto
-*   ✉️ [joelps117@hotmail.es](mailto:joelps117@hotmail.es)
-*   🔗 [GitHub](https://github.com/Jowy43)
+- 🔭 **Actualmente trabajando en:** NTT DATA como Software Developer y Referente de IA.
+- 💼 **Experiencia previa:** Imatia Innovation, Intec Software.
+- 🚀 **Especialidades:** Backend Development, Microservicios, Docker, Integración de IA.
+- 📍 **Ubicación:** Pontevedra, España.
 
 ---
-&copy; 2024 Joel Piñeiro. Todos los derechos reservados.
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+  <br/>
+
+  <!-- Frameworks & Backend -->
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-1F2D3D?style=for-the-badge&logo=serverless&logoColor=white" />
+
+  <br/>
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+
+  <br/>
+
+  <!-- DevOps & Tools -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+  <br/>
+
+  <!-- Frontend (Secondary) -->
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jowy43&show_icons=true&theme=react&hide_border=true&bg_color=0f172a&title_color=39ff14&icon_color=39ff14&text_color=e2e8f0" alt="Joel's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jowy43&layout=compact&theme=react&hide_border=true&bg_color=0f172a&title_color=39ff14&text_color=e2e8f0" alt="Top Languages" />
+</div>
+
+---
+
+### 📬 Contacto
+
+<div align="center">
+  <a href="mailto:joelps117@hotmail.es">
+    <img src="https://img.shields.io/badge/Email-joelps117%40hotmail.es-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
